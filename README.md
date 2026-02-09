@@ -6,7 +6,7 @@
 
 ## 📸 Game Preview
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/syOwLyX-B-Q))
+[![Watch the video]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/syOwLyX-B-Q))
 
 ---
 
