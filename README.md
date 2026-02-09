@@ -6,16 +6,7 @@
 
 ## 📸 Game Preview
 
-*(Add images in these spaces)*
-
-**Gameplay Screenshot**
-![Gameplay Screenshot](ADD_YOUR_IMAGE_HERE)
-
-**Obstacle & Fence System**
-![Obstacle System](ADD_YOUR_IMAGE_HERE)
-
-**Level Chunks / Procedural Generation**
-![Level Generation](ADD_YOUR_IMAGE_HERE)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/syOwLyX-B-Q))
 
 ---
 
